@@ -13,6 +13,7 @@
    * Unit testing
    * UI / subcutaneous testing
 * Scope
+   * Scope vs. context
    * Function level scope
    * The global namespace
    * Context, call and apply
