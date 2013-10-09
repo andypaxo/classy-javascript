@@ -39,4 +39,4 @@ We can then use this class-type object to define a subclass-type object, thusly:
 
 Constructor functions are *not* classes. They are also not objects with the properties that they define. This is why we use an object created by the constructor function as the prototype, not the constructor function itself.
 
-We can set the prototype of a newly constructed object directly, or we can use Object.create
+We can also set the prototype of a newly constructed object directly, or we can use Object.create

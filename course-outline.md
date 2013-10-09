@@ -12,6 +12,7 @@
    * Code documentation
    * Unit testing
    * UI / subcutaneous testing
+   * JSLint
 * Scope
    * Scope vs. context
    * Function level scope
